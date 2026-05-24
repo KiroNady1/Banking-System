@@ -1,0 +1,49 @@
+# Precompiled Objects
+*.o
+*.obj
+*.gch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Qt Creator specific files
+*.user
+*.user.*
+.qmake.stash
+object_script.*
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+
+# Build directories
+build/
+build-*/
+debug/
+release/
+
+# Code::Blocks files
+bin/
+obj/
+*.layout
+*.depend
+
+# IDEs
+.idea/
+.vscode/
+.qtcreator/
+.vs/
+*.suo
+*.user
+*.ncb
+*.suo
+*.sln
+*.vcproj
+*.vcxproj
+*.filters
+
+# OS files
+Thumbs.db
+.DS_Store
